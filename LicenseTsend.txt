@@ -1,3 +1,8 @@
 1.
 KEY: DarkCity 
 IP: 185.30.166.238
+
+2.
+KEY: SealineBeach 
+IP: 51.79.162.173
+
